@@ -1,28 +1,14 @@
 {
-	"users": [
-		{
-			"id": "nishant:nishant123",
-			"name": "Nishant Neeraj",
-			"age": "30",
-			"gender": "male"
-		},
-		{
-			"id": "lola:lola123",
-			"name": "Lola",
-			"age": "19",
-			"gender": "female"
-		}
-	],
-	"doctors": [{
-			"id": 1,
-			"name": "Dr Who",
-			"desc": "MBBS, MD, For the moment, the project is in alpha which means many things may change or brea"
-		},
-		{
-			"id": 2,
-			"name": "Dr House Greg",
-			"desc": "MD, For the moment, the project is in alpha which means many things may change or brea"
-		}
-	]
-
+    clientName: 'Fakemani Jwellers',
+    categories: [
+        'Nose Rings',
+        'Earrings',
+        'Chains',
+        'Kangan',
+        'बिछुआ'
+    ],
+    mainTitle: {
+        fontSize: 24,
+        color: 'blue'
+    }
 }
