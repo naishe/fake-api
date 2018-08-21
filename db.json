@@ -1,18 +1,18 @@
 {
   "data": {
-    "clientName": "Fakemani Jwellers",
+    "clientName": "Banarasi Sarees",
     "categories": [
-      "Nose Rings",
-      "Earrings",
-      "Chains",
-      "Kangan",
-      "बिछुआ"
+      "Cheap",
+      "Expensive",
+      "Bordered",
+      "Cottom",
+      "Linen"
     ]
   },
   "style": {
     "mainTitle": {
-        "fontSize": 24,
-        "color": "blue"
+        "fontSize": 40,
+        "color": "yellow"
       }
   }
 }
