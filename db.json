@@ -1,14 +1,18 @@
 {
+  "data": {
     "clientName": "Fakemani Jwellers",
     "categories": [
-        "Nose Rings",
-        "Earrings",
-        "Chains",
-        "Kangan",
-        "बिछुआ"
-    ],
+      "Nose Rings",
+      "Earrings",
+      "Chains",
+      "Kangan",
+      "बिछुआ"
+    ]
+  },
+  "style": {
     "mainTitle": {
         "fontSize": 24,
         "color": "blue"
-    }
+      }
+  }
 }
